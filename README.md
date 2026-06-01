@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shraman+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%2B+C;Distributed+Systems+%7C+Storage+Engines;Building+ZENITH+from+first+principles" alt="Typing SVG" />
 </div>
 
@@ -125,3 +125,4 @@ Follow along on [X (@shramanb113)](https://x.com/shramanb113)
 *Jadavpur University · Mechanical Engineering · 2024–2028 · Kolkata, India*
 
 </div>
+**
