@@ -1,27 +1,127 @@
-# 💫 About Me:
-Hi there, I'm Shraman!<br>I'm a Backend Engineer focused on building high-concurrency, real-time systems. I enjoy turning complex architectural problems into clean, scalable code.<br><br>🔭 I’m currently working on<br>Zenith, a high-performance hybrid search engine built in Go that combines lexical inverted indexes with semantic vector embeddings.<br><br>👯 I’m looking to collaborate on<br>Open-source Go projects focused on database internals, distributed systems, or high-throughput networking.<br><br>🤝 I’m looking for help with<br>Optimizing vector similarity search at scale and exploring advanced indexing structures like Finite State Transducers.<br><br>🌱 I’m currently learning<br>The nuances of concurrency primitives in Go and how to bridge the gap between traditional Information Retrieval and Modern AI logic.<br><br>💬 Ask me about<br>Building search engines from scratch, the mechanics of stemming and N-grams,also using modern retrieval techniques to make my database rank it's searches better or why I prefer Go for backend infrastructure.<br><br>⚡ Fun fact<br>I once spent a whole night hunting a "ghost" in my search results only to realize my stop-word list was too aggressive and was deleting my query before it even started.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shraman+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%2B+C;Distributed+Systems+%7C+Storage+Engines;Building+ZENITH+from+first+principles" alt="Typing SVG" />
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shraman-banerjee-385200303) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SB434223) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shramanb113&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shramanb113&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shramanb113&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![X](https://img.shields.io/badge/@shramanb113-000?style=flat-square&logo=x&logoColor=white)](https://x.com/shramanb113)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shraman-banerjee-385200303)&nbsp;
+[![GitHub](https://img.shields.io/badge/github-shramanb113-181717?style=flat-square&logo=github)](https://github.com/shramanb113)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shramanb113&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shramanb113&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shramanb113&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build systems at the boundary of correctness and performance — storage engines, search infrastructure, distributed coordination. Third-year Mechanical Engineering undergrad at Jadavpur University, Kolkata — writing Go and C while everyone else does CAD.
+
+My approach: read the codebase before touching it. Ship things I can explain from first principles.
+
+---
+
+## 🔭 Anchor Project — ZENITH
+
+> A distributed hybrid search engine built entirely from scratch in Go. No Elasticsearch. No Lucene. Every layer is handwritten.
+
+```
+┌─────────────────────────────────────────────────────┐
+│                    ZENITH                           │
+│                                                     │
+│  ┌──────────────┐    ┌──────────────────────────┐  │
+│  │  Search Layer│    │     Storage Layer         │  │
+│  │              │    │                           │  │
+│  │  BM25 Hybrid │    │  LSM Tree + WAL           │  │
+│  │  Inverted    │    │  SSTables + Bloom Filter  │  │
+│  │  Index       │    │  Compaction Pipeline      │  │
+│  │  BK-Tree     │    │                           │  │
+│  │  Embeddings  │    └──────────────────────────┘  │
+│  └──────────────┘                                   │
+│                                                     │
+│  ┌─────────────────────────────────────────────┐   │
+│  │              Systems Layer                   │   │
+│  │  gRPC + Protobuf  │  Raft Consensus          │   │
+│  │  Prometheus (WIP) │  Distributed Coord       │   │
+│  └─────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────┘
+```
+
+**Storage** — LSM tree with Write-Ahead Log, SSTables, Bloom filters for crash-safe persistence. Compaction pipeline to bound read amplification.
+
+**Search** — Inverted index with Porter stemmer + N-gram tokenization. BK-Tree for edit-distance fuzzy matching. Sentence-transformer embeddings + cosine similarity for semantic search. BM25 hybrid ranking fusing lexical and vector scores.
+
+**Systems** — gRPC transport, Raft consensus for distributed coordination, Prometheus instrumentation *(in progress)*.
+
+> Ask me why BK-Trees over a trie, or why BM25 over pure TF-IDF.
+
+---
+
+## 🌱 Open Source Contributions
+
+| Repo | Contribution | Type |
+|------|-------------|------|
+| [internetarchive/Zeno](https://github.com/internetarchive/Zeno) | Race condition fix + rate limiter improvement · [PR #578](https://github.com/internetarchive/Zeno/pull/578) | `Go` Bug Fix |
+| [supabase-community/supabase-go](https://github.com/supabase-community/supabase-go) | SDK improvement · [PR #51](https://github.com/supabase-community/supabase-go/pull/51) | `Go` Enhancement |
+
+**Active sprint:** Contributing to [Kyverno](https://github.com/kyverno/kyverno) across `kyverno`, `chainsaw`, `kyverno-json`, `policy-reporter`, and `website` — targeting 50+ PRs by October 2026 for **LFX Mentorship Term 3** application.
+
+---
+
+## 🗺️ What I'm Building Toward
+
+```
+Now          ████████░░  CKAD Certification          → July 2026
+             ████░░░░░░  Kyverno OSS Sprint (50 PRs) → October 2026
+Q3 2026      ░░░░░░░░░░  CKA Certification           → September 2026
+Q4 2026      ░░░░░░░░░░  LFX Mentorship Term 3
+2027         ░░░░░░░░░░  GSoC 2027 Application
+2027         ░░░░░░░░░░  Internship · Product-focused company
+```
+
+Stack I'm going deep on: **Go · C · Kubernetes · distributed systems internals**
+
+---
+
+## 🛠️ Core Stack
+
+```go
+// What I actually bet on
+
+languages := []string{"Go", "C", "Python", "Rust"}
+infra      := []string{"Kubernetes", "Docker", "gRPC", "Kafka", "Redis"}
+observe    := []string{"Prometheus", "Grafana"}
+databases  := []string{"PostgreSQL", "Redis", "custom LSM (ZENITH)"}
+tools      := []string{"Git", "GitHub Actions", "Linux"}
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shraman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shramanb113&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shramanb113&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shramanb113&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ✍️ Writing
+
+I write about what I build — storage engines, search internals, OSS contribution patterns. One post a month. No tutorials. Just implementation notes and design decisions.
+
+Follow along on [X (@shramanb113)](https://x.com/shramanb113)
+
+---
+
+<div align="center">
+
+**Open to backend infrastructure, distributed systems, and DevOps internships.**
+
+*Jadavpur University · Mechanical Engineering · 2024–2028 · Kolkata, India*
+
+</div>
