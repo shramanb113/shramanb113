@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Shraman+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%2B+C;I+build+systems+from+first+principles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Shraman+%F0%9F%91%8B;Backend+Engineer+%7C+Go+%2B+Kubernetes;I+build+systems+from+first+principles" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,13 +9,13 @@
 
 I'm a backend engineer focused on distributed systems and storage internals. I build things I can explain from first principles — no black boxes.
 
-Currently deep in: **Go · Rust · Kubernetes · search engine internals**
+Currently deep in: **Go · Kubernetes · OSS infrastructure**
 
 ---
 
 ### What I'm building
 
-The anchor project is **ZENITH** — a distributed hybrid search engine written entirely from scratch in Go. No Elasticsearch. No Lucene. Every layer is handwritten: an LSM tree with WAL + SSTables + Bloom filters, an inverted index with BK-Tree fuzzy matching, sentence-transformer embeddings fused with BM25 hybrid ranking, gRPC transport. Prometheus instrumentation is in progress.
+The anchor project is **ZENITH** — a distributed hybrid search engine written entirely from scratch in Go. No Elasticsearch. No Lucene. Every layer is handwritten: an LSM tree with WAL + SSTables + Bloom filters, an inverted index with BK-Tree fuzzy matching, sentence-transformer embeddings fused with BM25 hybrid ranking, gRPC transport. Prometheus instrumentation in progress.
 
 <table>
   <thead align="center">
@@ -94,9 +94,9 @@ Now →  Q3 2026   CKAD certification
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-CE412B?style=flat-square&logo=rust&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="gRPC" src="https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=google&logoColor=white" />
@@ -115,7 +115,7 @@ Now →  Q3 2026   CKAD certification
 
 I write about what I build — storage engine internals, search algorithms, OSS contribution patterns. One post a month. No tutorials. Just implementation notes.
 
-Follow along on [X (@SB434223)](https://x.com/SB434223)
+Follow along on [X (@shramanb113)](https://x.com/shramanb113)
 
 ---
 
