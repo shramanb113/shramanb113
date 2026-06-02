@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://x.com/SB434223" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://x.com/shramanb113" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shraman-banerjee-385200303" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
