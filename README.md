@@ -9,7 +9,7 @@
 
 I'm a backend engineer focused on distributed systems and storage internals. I build things I can explain from first principles — no black boxes.
 
-Currently deep in: **Go · C · Kubernetes · search engine internals**
+Currently deep in: **Go · Rust · Kubernetes · search engine internals**
 
 ---
 
